@@ -1,0 +1,19 @@
+﻿Symbol,Selector
+0,<wnd app='applicationframehost.exe' title='Calculator' /><uia cls='NamedContainerAutomationPeer' name='Number pad' /><uia cls='Button' name='Zero' />
+1,<wnd app='applicationframehost.exe' title='Calculator' /><uia cls='NamedContainerAutomationPeer' name='Number pad' /><uia cls='Button' name='One' />
+2,<wnd app='applicationframehost.exe' title='Calculator' /><uia cls='NamedContainerAutomationPeer' name='Number pad' /><uia cls='Button' name='Two' />
+3,<wnd app='applicationframehost.exe' title='Calculator' /><uia cls='NamedContainerAutomationPeer' name='Number pad' /><uia cls='Button' name='Three' />
+4,<wnd app='applicationframehost.exe' title='Calculator' /><uia cls='NamedContainerAutomationPeer' name='Number pad' /><uia cls='Button' name='Four' />
+5,<wnd app='applicationframehost.exe' title='Calculator' /><uia cls='NamedContainerAutomationPeer' name='Number pad' /><uia cls='Button' name='Five' />
+6,<wnd app='applicationframehost.exe' title='Calculator' /><uia cls='NamedContainerAutomationPeer' name='Number pad' /><uia cls='Button' name='Six' />
+7,<wnd app='applicationframehost.exe' title='Calculator' /><uia cls='NamedContainerAutomationPeer' name='Number pad' /><uia cls='Button' name='Seven' />
+8,<wnd app='applicationframehost.exe' title='Calculator' /><uia cls='NamedContainerAutomationPeer' name='Number pad' /><uia cls='Button' name='Eight' />
+9,<wnd app='applicationframehost.exe' title='Calculator' /><uia cls='NamedContainerAutomationPeer' name='Number pad' /><uia cls='Button' name='Nine' />
+.,<wnd app='applicationframehost.exe' title='Calculator' /><uia cls='NamedContainerAutomationPeer' name='Number pad' /><uia cls='Button' name='Decimal Separator' />
+(,"<wnd app='applicationframehost.exe' title='Calculator' /><uia cls='Button' name='Left parenthesis, open parenthesis count 0' />"
+),<wnd app='applicationframehost.exe' title='Calculator' /><uia cls='Button' name='Right parenthesis' />
++,<wnd app='applicationframehost.exe' title='Calculator' /><uia name='Standard operators' /><uia cls='Button' name='Plus' />
+-,<wnd app='applicationframehost.exe' title='Calculator' /><uia name='Standard operators' /><uia cls='Button' name='Minus' />
+*,<wnd app='applicationframehost.exe' title='Calculator' /><uia name='Standard operators' /><uia cls='Button' name='Multiply by' />
+/,<wnd app='applicationframehost.exe' title='Calculator' /><uia name='Standard operators' /><uia cls='Button' name='Divide by' />
+=,<wnd app='applicationframehost.exe' title='Calculator' /><uia cls='NamedContainerAutomationPeer' name='Standard operators' /><uia cls='Button' name='Equals' />
